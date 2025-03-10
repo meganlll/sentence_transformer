@@ -23,8 +23,6 @@ Run `python step_1_sentence_transformer.py` script to generate embeddings and vi
 
 # Step 2 - Multi task learner
 
-# Multi-Task Learning with MoE
-
 ## Overview
 I choose to implment a MoE based multi task learner for below NLP tasks:
 
